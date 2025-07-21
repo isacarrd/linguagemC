@@ -56,8 +56,6 @@ int main(){
 		printf("Quilogramas: %.1fKG. \n", quilogramas);
 	}
 	
-  
-	
 	printf("Preco dos morangos: %.2f. \n", total_morango);
 	printf("Preco das macas: %.2f. \n", total_maca); 
 }
