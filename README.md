@@ -17,7 +17,7 @@ Confira o curso gratuito que me auxiliou a compreender melhor ambos tópicos:
 7. **Par ou ímpar**; Descrição: Peça um número inteiro. Informe se ele é par ou ímpar.<br>
 8. Escreva um programa que leia do teclado as duas notas de um aluno, calcule e exiba a média aritmética das notas. O programa deve, adicionalmente, exibir uma mensagem de parabéns caso o aluno esteja aprovado (média superior ou igual a 6,0), média até 4,0, o aluno está em recuperação, caso a média seja inferior a 4,0 o aluno será reprovado.<br>
 9. Uma fruteira está vendendo frutas com a seguinte tabela de preços:
-![exercicio09]({33746329-2705-48E1-B81F-F6800C65963E}.png)
+![exercicio09]({33746329-2705-48E1-B81F-F6800C65963E}.png) <br>
   Se o cliente comprar mais de 8 Kg em frutas ou o valor total da compra ultrapassar R$ 25,00, receberá ainda um desconto de 10% sobre este total. Escreva um algoritmo para ler a quantidade (em Kg) de morangos e a quantidade (em Kg) de maças adquiridas e escreva o valor a ser pago pelo cliente.<br>
 10. Faça um programa que leia um código de operação (+,-,* ou /), e também dois valores inteiros A
 e B. O programa deve calcular o resultado da operação escolhida aplicado a A e B. Por
