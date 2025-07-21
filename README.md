@@ -17,7 +17,7 @@ Confira o curso gratuito que me auxiliou a compreender melhor ambos tópicos:
 7. **Par ou ímpar**; Descrição: Peça um número inteiro. Informe se ele é par ou ímpar.<br>
 8. Escreva um programa que leia do teclado as duas notas de um aluno, calcule e exiba a média aritmética das notas. O programa deve, adicionalmente, exibir uma mensagem de parabéns caso o aluno esteja aprovado (média superior ou igual a 6,0), média até 4,0, o aluno está em recuperação, caso a média seja inferior a 4,0 o aluno será reprovado.<br>
 9. Uma fruteira está vendendo frutas com a seguinte tabela de preços:
-![exercicio09]({33746329-2705-48E1-B81F-F6800C65963E}.png) <br>
+![exercicio09](imagens\{33746329-2705-48E1-B81F-F6800C65963E}.png) <br>
   Se o cliente comprar mais de 8 Kg em frutas ou o valor total da compra ultrapassar R$ 25,00, receberá ainda um desconto de 10% sobre este total. Escreva um algoritmo para ler a quantidade (em Kg) de morangos e a quantidade (em Kg) de maças adquiridas e escreva o valor a ser pago pelo cliente.<br>
 10. Faça um programa que leia um código de operação (+,-,* ou /), e também dois valores inteiros A
 e B. O programa deve calcular o resultado da operação escolhida aplicado a A e B. Por
@@ -33,12 +33,12 @@ total a pagar (total a pagar = total - desconto), sabendo-se que:
 Assim os CD´s que ficam na loja não são marcados por preços e sim por cores. Desenvolva o
 algoritmo que a partir da entrada da cor o software mostre o preço. A loja está atualmente com a
 seguinte tabela de preços. 
-![exercicio12]({E6B1B4C7-A237-4973-A69B-70559A9DDF28}.png)<br> 
+![exercicio12](imagens\{E6B1B4C7-A237-4973-A69B-70559A9DDF28}.png)<br> 
 13. Uma financeira usa o seguinte critério para conceder empréstimos: o valor total do empréstimo
 deve ser até dez vezes o valor da renda mensal do solicitante e o valor da prestação deve ser no
 máximo 30% da renda mensal do solicitante. Escreva um programa que leia a renda mensal de
 um solicitante, o valor total do empréstimo solicitado e o número de prestações que o solicitante
 deseja pagar e informe se o empréstimo pode ou não ser concedido. <br>
 14. Um posto está vendendo combustíveis com a seguinte tabela de descontos: 
-![exercicio14]({098F1DF8-831A-4B81-9AED-5A6EF0ED5BD4}.png)
+![exercicio14](imagens\{098F1DF8-831A-4B81-9AED-5A6EF0ED5BD4}.png)
   Escreva um algoritmo que leia o número de litros vendidos e o tipo de combustível (codificado da seguinte forma: A-álcool, G-gasolina), calcule e imprima o valor a ser pago pelo cliente sabendo-se que o preço do litro da gasolina é R$ 6,59 e o preço do litro do álcool é R$ 3,79.
