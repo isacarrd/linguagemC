@@ -3,13 +3,11 @@
 Aqui estão exercícios que executei para meu aprendizado em lógica de programação, usando a linguagem C como meu "lápis"!
 *OBS:* a IDE usada para criar e rodar os códigos foi o **Dev C++**! Para a realização dos commits neste repositório, foi presciso passar cada código para o Visual Studio Code.
 
-# Importante
-
+## Quer aprender Lógica e o básico da linguagem C? 
 <a href="https://www.youtube.com/watch?v=srO78ai734g&ab_channel=C%C3%B3digoRoxo">Lógica de programação para iniciantes</a>, abordando conceitos fundamentais da lógica, dica dos 5Q's e operadores.
 
-## Quer aprender Lógica e o básico da linguagem C? 
-Confira o curso gratuito que me auxiliou a compreender melhor ambos tópicos:
-<a href="https://www.youtube.com/watch?v=2w8GYzBjNj8&list=PLpaKFn4Q4GMOBAeqC1S5_Fna_Y5XaOQS2&ab_channel=PietroMartinsDeOliveira">Professor Pietro</a>
+Confira o curso gratuito de Lógica de Programação e Linguagem C:
+<a href="https://www.youtube.com/watch?v=2w8GYzBjNj8&list=PLpaKFn4Q4GMOBAeqC1S5_Fna_Y5XaOQS2&ab_channel=PietroMartinsDeOliveira">Professor Pietro</a>.
 
 ## Exercícios
 
