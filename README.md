@@ -5,6 +5,8 @@ Aqui estão exercícios que executei para meu aprendizado em lógica de programa
 
 <br>
 
+# Importante
+
 <a href="https://www.youtube.com/watch?v=srO78ai734g&ab_channel=C%C3%B3digoRoxo">Lógica de programação para iniciantes</a>, abordando conceitos fundamentais da lógica, dica dos 5Q's e operadores.
 
 ## Quer aprender Lógica e o básico da linguagem C? 
