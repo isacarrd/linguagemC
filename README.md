@@ -3,8 +3,6 @@
 Aqui estão exercícios que executei para meu aprendizado em lógica de programação, usando a linguagem C como meu "lápis"!
 *OBS:* a IDE usada para criar e rodar os códigos foi o **Dev C++**! Para a realização dos commits neste repositório, foi presciso passar cada código para o Visual Studio Code.
 
-<br>
-
 # Importante
 
 <a href="https://www.youtube.com/watch?v=srO78ai734g&ab_channel=C%C3%B3digoRoxo">Lógica de programação para iniciantes</a>, abordando conceitos fundamentais da lógica, dica dos 5Q's e operadores.
