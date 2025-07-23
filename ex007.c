@@ -7,11 +7,6 @@ int main(){
 	printf("Digite um numero: ");
 	scanf("%d", &num);
 	
-	/*
-	divisaoteste = num / 2;
-	printf("%.2f \n", divisaoteste); */
-	
-	
 	if(num % 2 == 0){
 		printf("Numero Par");
 	} else{
